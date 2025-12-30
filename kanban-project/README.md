@@ -9,9 +9,11 @@
 
 ## Étapes de lancement
 
-### 1. Installer les dépendances
+### Installer les dépendances
 
 (bash)
 npm install
+
+### Lancement du projet
 cd kanban-project
 npm run dev
